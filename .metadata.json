@@ -1,0 +1,14 @@
+[
+  {
+    "package": "concordance",
+    "oncran": true
+  },
+  {
+    "package": "PanelMatch",
+    "oncran": true
+  },
+  {
+    "package": "wfe",
+    "oncran": true
+  }
+]
