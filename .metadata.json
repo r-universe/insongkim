@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "PanelMatch",
+    "package": "wfe",
     "oncran": true
   },
   {
-    "package": "wfe",
+    "package": "PanelMatch",
     "oncran": true
   }
 ]
