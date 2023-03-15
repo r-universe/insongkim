@@ -8,13 +8,13 @@
 	url = https://github.com/insongkim/concordance
 	shallow = true
 	registered = true
-[submodule "wfe"]
-	path = wfe
-	url = https://github.com/insongkim/wfe
-	shallow = true
-	registered = true
 [submodule "PanelMatch"]
 	path = PanelMatch
 	url = https://github.com/insongkim/panelmatch
+	shallow = true
+	registered = true
+[submodule "wfe"]
+	path = wfe
+	url = https://github.com/insongkim/wfe
 	shallow = true
 	registered = true
