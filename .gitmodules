@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "concordance"]
-	path = concordance
-	url = https://github.com/insongkim/concordance
 [submodule "PanelMatch"]
 	path = PanelMatch
 	url = https://github.com/insongkim/panelmatch
+[submodule "concordance"]
+	path = concordance
+	url = https://github.com/insongkim/concordance
 [submodule "wfe"]
 	path = wfe
 	url = https://github.com/insongkim/wfe
